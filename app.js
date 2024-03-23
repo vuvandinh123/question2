@@ -1,5 +1,4 @@
-/* Created and coded by Abhilash Narayan */
-/* Quiz source: w3schools.com */
+
 var quiz = {
     "JS": [
         {
